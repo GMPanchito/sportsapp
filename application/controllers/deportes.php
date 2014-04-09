@@ -13,7 +13,7 @@ class Deportes extends CI_Controller {
 	}
 	
 	public function std_pag(){
-	 #Numero
+	 #Numeros
 	 $config['num_tag_open']= '<i class="item" >';
 	 $config['num_tag_close']= '</i>';
 	 
