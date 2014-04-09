@@ -1,0 +1,103 @@
+#content{
+	float: left;
+	border-radius: 10px;
+
+}
+#divlogo{
+	height: 75px;
+	width: auto;
+
+}
+header{
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	height: 75px;
+	width: 950px;
+	margin-left: 196.5px;
+	margin-right: 196.5px;
+	margin-top: 15px;
+	background-color: #a1cf20;
+	border-bottom: bold;
+}
+header img{
+	border-radius: 10px;
+	border-bottom-right-radius: 40px;
+	border-top-right-radius: 40px;
+}
+nav{
+	height: 130;
+	width: 950px;
+	margin-left: 196.5px;
+}
+#twitter-widget-0{
+	float: left;
+	width: 35%;
+	height: 308px;
+}
+#twitter{
+	height:308px;
+}
+article{
+	width: 948px;
+	height: 340px;
+	margin-left: 196.5px;
+}
+#login{
+	margin-top: -63px;
+	margin-left: 590px;
+	float:right;
+	margin-right: 100px;
+}
+#like{
+	margin-left: 600px;
+}
+header iframe{
+	margin-top:-50px;
+}
+#inicio{
+	text-decoration: none;
+}
+#noticias{
+	width: 948px;
+	height: 308px;
+	margin-right: 196.5px;
+	margin-left: 196.5px;
+	margin-top: -58px;
+}
+#top10basquet{
+	background-color: green;
+	width:313px;
+	height:308px;
+	float: left;
+	margin-right: 3px;
+}
+#top10fut{
+	background-color: yellow;
+	width:315px;
+	height:308px;
+	float: left;
+	margin-left: 3px;
+}
+#top10beis{
+	background-color: red;
+	width:313px;
+	height:308px;
+	float: left;
+	margin-right: 1px;
+}
+.top10basquet{
+	margin-left: 47px;
+	margin-top: 10px;
+}
+.top10{
+	margin-left: 67px;
+	margin-top: 10px;
+}
+#mision{
+	width: 585px;
+	height: auto;
+	font-size: 13pt;
+	float:left;
+	text-align: justify;
+	padding: 15px;
+}
